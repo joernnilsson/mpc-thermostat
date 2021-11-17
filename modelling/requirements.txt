@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scipy
+tk
+HomeAssistant-API
+cvxpy
+cvxopt
